@@ -1,5 +1,5 @@
 def upper_input():
-    """Wow"""
+    """Wo"""
     user_input = input()
     upper_input = user_input.upper()
     return upper_input
